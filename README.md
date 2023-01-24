@@ -5,6 +5,3 @@
 
 <li> Desenvolvedor Front-End </li>
 <li> Em formação em ADS </li>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleytuns&layout=compact)](https://github.com/cleytuns/cleytuns)
